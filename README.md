@@ -1,7 +1,7 @@
 # ConR: Contrastive Regularizer for Deep Imbalanced Regression
 
-This repository contains the code for the paper: <br>
-__ConR: Contrastive Regularizer for Deep Imbalanced Regression__ (http://arxiv.org/abs/2309.06651)<br> 
+This repository contains the code for the paper: <be>
+[__ConR: Contrastive Regularizer for Deep Imbalanced Regression__](http://arxiv.org/abs/2309.06651)<br> 
 Mahsa Keramati, Lili Meng, R David Evans <br>
 
 <p align="center">
